@@ -10,7 +10,7 @@ const casual = ['mmmm. A jalabeyah?',
 const wedding = [ 'for a big wedding, wear your self portrait dress',
                   'for a big wedding do the escada dress'
                   ]
-const small_wedding = ['for a small wedding, wear that Make dress.',
+const small_wedding = ['for a small wedding, wear that black dress.',
                       'do the red dress if its a small event.'
   ]
 
