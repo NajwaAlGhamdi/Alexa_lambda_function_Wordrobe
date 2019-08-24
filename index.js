@@ -1,4 +1,6 @@
 
+//author Najwa Alghamdi
+// you can updae causal, wedding and meeting to match your closet 
 const casual = ['mmmm. A jalabeyah?',
                 'How about going casual. A white shirt and a pair of jeans.',
                 'Go simple. A skirt and a T-shirt.',
